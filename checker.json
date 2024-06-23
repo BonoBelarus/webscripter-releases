@@ -1,23 +1,11 @@
 {
-  "version": "v0.0.1",
-  "notes": "Test version",
-  "pub_date": "2024-03-19T23:53:26Z",
+  "version": "0.0.1",
+  "notes": "See the assets to download this version and install.",
+  "pub_date": "2024-06-23T15:29:46.394Z",
   "platforms": {
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZ1J4c2s5TmM2NHdnQytQVkhNR2k4bVV5bWFRdVN0eE1XUE56NTc2M0pGMkx4RVhsamtSZW9XWkZzNlY0SGtGZ3VvMWNBMDRxZi9RczNEdEJtYnYvWUNuNjNhYXE0L2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEwODkwOTU4CWZpbGU6d2Vic2NyaXB0ZXIuYXBwLnRhci5negp1dEFCZUxpWE1TM2tvZkN5Zk9iWmM2V0tERU9DK3BialhJelVGaFVNZ3U0SUZlVkpBdjJqQ3lDNHJ1Z2RaN0NxRXlXekFDNzJQV25KalFXT0lyQkdDUT09Cg==",
-      "url": "https://github.com/username/reponame/releases/download/releases/v0.0.1/app-x86_64.app.tar.gz"
-    },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZ1J4c2s5TmM2NHdnQytQVkhNR2k4bVV5bWFRdVN0eE1XUE56NTc2M0pGMkx4RVhsamtSZW9XWkZzNlY0SGtGZ3VvMWNBMDRxZi9RczNEdEJtYnYvWUNuNjNhYXE0L2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEwODkwOTU4CWZpbGU6d2Vic2NyaXB0ZXIuYXBwLnRhci5negp1dEFCZUxpWE1TM2tvZkN5Zk9iWmM2V0tERU9DK3BialhJelVGaFVNZ3U0SUZlVkpBdjJqQ3lDNHJ1Z2RaN0NxRXlXekFDNzJQV25KalFXT0lyQkdDUT09Cg==",
-      "url": "https://github.com/username/reponame/releases/download/releases/v0.0.1/app-aarch64.app.tar.gz"
-    },
-    "linux-x86_64": {
-      "signature": "Content of app.AppImage.tar.gz.sig",
-      "url": "https://github.com/username/reponame/releases/download/releases/v0.0.1/app-amd64.AppImage.tar.gz"
-    },
-    "windows-x86_64": {
-      "signature": "Content of app-setup.nsis.sig or app.msi.sig, depending on the chosen format",
-      "url": "https://github.com/username/reponame/releases/download/releases/v0.0.1/app-x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWUdTenFnbE5TUmw3NnF2VnlrRkZZVHBoUlBzcnJMbzNhbFFxdlpka2NwSTE5WlV4cEdiVnc2dlo4ZGlmbUl4ZjNtVE16ZklydWw5ZzdJZTdlNzBiak4yUVN3d3ZQeXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE5MTU2NTY2CWZpbGU6d2Vic2NyaXB0ZXIuYXBwLnRhci5negorSDFqemZtWmQwa0ZJYUVuWjhSTXZuaEt1clZLeVRZQ2RCWkhEbTRtZXc0ZzJKb0NLK1JiU3c5NWd3SFhtNDlLTmFoTHVFam4vT01kdVNXN2FScE1BZz09Cg==",
+      "url": "https://github.com/BonoBelarus/webscripter/releases/download/app-v0.0.1/webscripter_aarch64.app.tar.gz"
     }
   }
 }
